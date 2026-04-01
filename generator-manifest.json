@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Change Remote Control Code",
+  "description_recipe": "Change Remote Control Code",
+  "history_source_dir": "VuRemote",
+  "internal_package_name": "enigma2-plugin-systemplugins-remotecontrolcode",
+  "module_dir_name": "VuRemote",
+  "output_subdir": "VuRemote",
+  "package_name": "enigma2-plugin-systemplugins-remotecontrolcode-vu-remote",
+  "plugin_src_rel": "VuRemote",
+  "python_package": "VuRemote",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "VuRemote",
+  "rrecommends": "",
+  "rreplaces": ""
+}
