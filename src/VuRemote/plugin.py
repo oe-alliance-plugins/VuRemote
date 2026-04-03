@@ -14,7 +14,7 @@ try:
 	from Components.SystemInfo import BoxInfo
 	IMAGEDISTRO = BoxInfo.getItem("distro")
 	MODEL = BoxInfo.getItem("machinebuild")
-except:
+except ImportError:
 	from boxbranding import getImageDistro, getBoxType
 	IMAGEDISTRO = getImageDistro()
 	MODEL = getBoxType()
