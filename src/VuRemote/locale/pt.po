@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-01-23 00:51+0000\n"
 "Last-Translator: nunigaia\n"
 "Language-Team: BlackHole Team\n"
@@ -20,49 +20,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr " de %d segundos."
-
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Cancelar"
 
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "FICHEIRO não existe: /proc/stb/fp/remote_code"
 
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Manter"
 
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Altere o modo do seu Telecomando:"
 
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "Prima e retenha <2> e <7> até que o LED vermelho acenda, depois prima '000"
 
+#: ../plugin.py:126
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "Prima e retenha <OK> e <STB> até que o LED vermelho acenda, depois prima '0000"
 
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Código do Telecomando"
 
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Código de sistema do Telecomando"
 
+#: ../plugin.py:103
 msgid "Remote Control Type"
 msgstr "Tipo de Telecomando"
 
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Restaurar"
 
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Gravar"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Desculpe, mas %s não é suportado."
 
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Suporte de Texto"
 
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Depois escolha 'Manter' dentro"

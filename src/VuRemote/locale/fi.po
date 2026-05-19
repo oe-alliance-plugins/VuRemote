@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:50+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2023-08-04 21:55+0300\n"
 "Last-Translator: Orlandox\n"
 "Language-Team: AndyBlac/TimoJ\n"
@@ -15,49 +15,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.3.2\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr " %d sekunnissa."
-
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Peruuta"
 
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "TIEDOSTOA EI LÖYDY : /proc/stb/fp/remote_code"
 
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Käytä"
 
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Vaihda kaukosäätimen lähetyskoodi"
 
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "Paina ja pidä '2' ja '7' näppäimiä pohjassa kunnes punainen valo palaa jatkuvasti, paina sitten 'Help' ja sitten '000"
 
+#: ../plugin.py:126
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "Paina ja pidä <OK> and <STB> näppäimiä pohjassa kunnes punainen valo palaa jatkuvasti, paina sitten '0000"
 
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Kaukosäätimen koodi"
 
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Kaukosäätimen järjestelmäkoodi"
 
+#: ../plugin.py:103
 msgid "Remote Control Type"
 msgstr "Kaukosäätimen tyyppi"
 
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Palauta"
 
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Tallenna"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Sori, mutta %s ei ole tuettu."
 
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Tekstin tuki"
 
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Valitse sitten 'Käytä' ennen aikalaskurin loppumista"

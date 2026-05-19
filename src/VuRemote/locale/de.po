@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-10-14 22:51+0200\n"
 "Last-Translator: Manfred Aabye <openmanniland@gmx.de>\n"
 "Language-Team: Deutsch <> j-ot&Trial\n"
@@ -14,49 +14,59 @@ msgstr ""
 "X-Generator: Poedit 2.2\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr " in %d Sekunden."
-
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Abbrechen"
 
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "Datei existiert nicht: : /proc/stb/fp/remote_code"
 
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Behalten"
 
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Bitte den Modus der Fernbedienung ändern"
 
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "'2' & '7' gedrückt halten bis LED dauerhaft leuchtet, dann 'Help' drücken, dann drücke '000"
 
+#: ../plugin.py:126
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "<OK> & <STB> gedrückt halten bis LED dauerhaft leuchtet, dann drücke '0000"
 
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Fernbedienungs Code"
 
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Fernbedienungs System Code"
 
+#: ../plugin.py:103
 msgid "Remote Control Type"
 msgstr "Fernbedienung Model"
 
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Wiederherstellung"
 
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Speichern"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Entschuldigung, aber %s wird nicht unterstützt."
 
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Textunterstützung"
 
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Dann wähle 'Behalten' innerhalb X Sekunden"

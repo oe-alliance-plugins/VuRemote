@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2016-05-07 14:20+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: ViX\n"
@@ -18,51 +18,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.7\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr ""
-
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Cancel"
 
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "FILE NOT EXIST : /proc/stb/fp/remote_code"
 
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Keep"
 
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Please change your remote mode"
 
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 
+#: ../plugin.py:126
 #, fuzzy
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Remote Control Code"
 
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Remote Control System Code"
 
+#: ../plugin.py:103
 #, fuzzy
 msgid "Remote Control Type"
 msgstr "Remote Control Code"
 
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Restore"
 
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Save"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr ""
 
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Text support"
 
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Then choose 'Keep' within seconds"

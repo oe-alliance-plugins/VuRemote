@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VuRemote - oe-alliance\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2017-07-06 08:34+0300\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P.\n"
@@ -15,51 +15,61 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr " per %d sek."
-
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Atšaukti"
 
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "Failo /proc/stb/fp/remote_code NĖRA"
 
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Išsaugoti"
 
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Pakeiskite savo nuotolinio valdymo režimą"
 
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "Paspauskite ir laikykite '2' ir '7', kol ištisai užsidegs raudonas LED, po to spauskite 'HELP', o po to '000'"
 
+#: ../plugin.py:126
 #, fuzzy
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "Paspauskite ir laikykite '2' ir '7', kol ištisai užsidegs raudonas LED, po to spauskite 'HELP', o po to '000'"
 
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Nuotolinio valdymo pulto kodas"
 
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Nuotolinio valdymo sistemos kodas"
 
+#: ../plugin.py:103
 #, fuzzy
 msgid "Remote Control Type"
 msgstr "Nuotolinio valdymo pulto kodas"
 
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Atkurti"
 
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Išsaugoti"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Atleiskite, %s nepalaikomi."
 
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Teksto palaikymas"
 
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Tada pasirinkite 'Išsaugoti' per X sek."

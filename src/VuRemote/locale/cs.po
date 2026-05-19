@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ims\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2016-05-07 14:20+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: jerry00 <jerry00@quick.cz>\n"
@@ -14,64 +14,74 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Poedit 1.8.7\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr ""
-
 #
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Zavřít"
 
 #
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "SOUBOR NEEXISTUJE : /proc/stb/fp/remote_code"
 
 #
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Zachovat"
 
 #
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Změňte režim ovládání"
 
 #
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "Stiskni a podrž '2' & '7' až svítí červená dioda, pak stiskni 'Help', a poté '000"
 
 #
+#: ../plugin.py:126
 #, fuzzy
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "Stiskni a podrž '2' & '7' až svítí červená dioda, pak stiskni 'Help', a poté '000"
 
 #
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Kód DO"
 
 #
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Systémový kód DO"
 
 #
+#: ../plugin.py:103
 #, fuzzy
 msgid "Remote Control Type"
 msgstr "Kód DO"
 
 #
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Obnovit"
 
 #
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Uložit"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr ""
 
 #
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Textová podpora"
 
 #
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Pak zvolte 'Zachovat' během několika vteřin"

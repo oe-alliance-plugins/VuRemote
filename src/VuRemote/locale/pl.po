@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:01+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2026-04-07 11:56+0100\n"
 "Last-Translator: pololoko111\n"
 "Language-Team: \n"
@@ -14,49 +14,59 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Poedit 3.9\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr " w %d sekundy."
-
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Anuluj"
 
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "PLIK NIE ISTNIEJE : /proc/stb/fp/remote_code"
 
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Zachowaj"
 
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Zmień swój tryb pilota"
 
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "Nacisnij i przytrzymaj '2' & '7' aż czerwona dioda LED zacznie świecić, a następnie naciśnij 'Help', a następnie '000'"
 
+#: ../plugin.py:126
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "Naciśnij i przytrzymaj <OK> i <STB>, aż czerwona dioda LED zacznie świecić światłem ciągłym, a następnie naciśnij '0000'"
 
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Ustawienia kodu pilota"
 
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Kod systemu pilota"
 
+#: ../plugin.py:103
 msgid "Remote Control Type"
 msgstr "Typ pilota"
 
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Przywróć"
 
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Zapisz"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Przepraszamy, ale %s nie jest obsługiwany."
 
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Obsługa tekstu"
 
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Następnie wybierz 'Zachowaj' w ciągu kilku sekund"

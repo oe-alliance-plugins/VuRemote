@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VuRemote\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2017-12-03 19:35+0000\n"
 "Last-Translator: insanity\n"
 "Language-Team: www.vuplus-community.net <insanity@>\n"
@@ -17,51 +17,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#, python-format
-msgid " in %d seconds."
-msgstr " in %d secondi."
-
+#: ../plugin.py:87
 msgid "Cancel"
 msgstr "Annulla"
 
+#: ../plugin.py:120
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "FILE NON ESISTE: /proc/stb/fp/remote_code"
 
+#: ../plugin.py:148
 msgid "Keep"
 msgstr "Mantenere"
 
+#: ../plugin.py:122
 msgid "Please change your remote mode"
 msgstr "Si prega di cambiare la modalità telecomando"
 
+#: ../plugin.py:124
 msgid "Press and hold '2' & '7' until red LED is solid, then press 'Help', then press '000"
 msgstr "Tenere premuto '2' & '7' finché il LED rosso rimane fisso, premere 'Help', poi premere ' 000"
 
+#: ../plugin.py:126
 #, fuzzy
 msgid "Press and hold <OK> and <STB> until red LED is solid, then press '0000"
 msgstr "Tenere premuto '2' & '7' finché il LED rosso rimane fisso, premere 'Help', poi premere ' 000"
 
+#: ../plugin.py:76 ../plugin.py:161 ../plugin.py:169
 msgid "Remote Control Code"
 msgstr "Codice telecomando"
 
+#: ../plugin.py:104
 msgid "Remote Control System Code"
 msgstr "Codice sistema telecomando"
 
+#: ../plugin.py:103
 #, fuzzy
 msgid "Remote Control Type"
 msgstr "Codice telecomando"
 
+#: ../plugin.py:148
 msgid "Restore"
 msgstr "Ripristina"
 
+#: ../plugin.py:88
 msgid "Save"
 msgstr "Salva"
 
+#: ../plugin.py:99
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Spiacenti, ma %s non è supportato."
 
+#: ../plugin.py:108
 msgid "Text support"
 msgstr "Supporto testo"
 
+#: ../plugin.py:127
 msgid "Then choose 'Keep' within seconds"
 msgstr "Poi scegli \"Mantieni\" entro X secondi"
