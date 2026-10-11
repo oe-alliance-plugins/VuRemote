@@ -23,7 +23,7 @@ except ImportError:
 def getRcuDefaultType():
 	if MODEL in ["vuultimo4k"]:
 		return "type5"
-	elif MODEL in ["vuuno4kse", "vuzero4k", "vuduo4k", "vuduo4kse"]:
+	elif MODEL in ["vuuno4kse", "vuzero4k", "vuduo4k", "vuduo4kse", "vuduo4klite"]:
 		return "type6"
 	return "legacy"
 
@@ -52,7 +52,7 @@ class RemoteControlCodeInit:
 		return 0
 
 	def getModel(self):
-		if MODEL in ("vuuno", "vuultimo", "vusolo2", "vuduo2", "vusolose", "vuzero", "vusolo4k", "vuuno4k", "vuuno4kse", "vuzero4k", "vuultimo4k", "vuduo4k", "vuduo4kse"):
+		if MODEL in ("vuuno", "vuultimo", "vusolo2", "vuduo2", "vusolose", "vuzero", "vusolo4k", "vuuno4k", "vuuno4kse", "vuzero4k", "vuultimo4k", "vuduo4k", "vuduo4kse", "vuduo4klite"):
 			return True
 		else:
 			return False
